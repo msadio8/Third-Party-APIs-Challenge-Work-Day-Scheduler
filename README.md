@@ -32,8 +32,15 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Table of Contents
 
-## How to install and Run the Project
+1️⃣ Installation
+2️⃣ Usage
+3️⃣ Credits
+4️⃣ License
+5️⃣ Tests
+
+## Installation
 
 The following animation demonstrates the application functionality:
 
@@ -41,4 +48,18 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
-application can be run in any Webrowsers such as Chrome or Safari
+
+## Usage
+
+Application can be run in any Webrowsers such as Chrome or Safari
+
+below is a screenshot on the application works
+![Alt text](<Assets/images/Screenshot 2023-06-26 at 3.52.03 pm.png>)
+
+
+## Credits
+My Tutor & TA's has provided me guidance to complete this Challenge
+
+## Tests
+
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
