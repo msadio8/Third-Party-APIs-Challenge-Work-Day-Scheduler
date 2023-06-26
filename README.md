@@ -51,16 +51,36 @@ The following animation demonstrates the application functionality:
 
 ## Usage
 
-Application can be run in any Webrowsers such as Chrome or Safari
+Application can be run in any Web browser such as Chrome or Safari
 
-below is a screenshot on the application works
+below is a screenshot on how the application works
 ![Alt text](<Assets/images/Screenshot 2023-06-26 at 3.52.03 pm.png>)
 
 ## Credits
 
-My Tutor & TA's has provided me guidance to complete this Challenge
+Credit's to my Tutor & TA's has provided me guidance to complete this Challenge
+
+## License
+
+Please refer to the LICENSE in the repo
 
 ## Tests
 
-Please click below Url link to test the application
+Please click Url link to test the application
+
 https://msadio8.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
+
+the gray ⚪️ color represents for past
+the red 🔴 color represents the present or current time
+the green 🟢 color represents the future
+
+to guide you how the application works
+
+here in text line you type or add your appointment then click save button in blue, then it will be stored in the localStorage
+to clear localStorage click the Clear button.
+
+![Alt text](<Assets/images/Screenshot 2023-06-26 at 4.19.34 pm.png>)
+
+![Alt text](<Assets/images/Screenshot 2023-06-26 at 4.19.55 pm.png>)
+
+![Alt text](<Assets/images/Screenshot 2023-06-26 at 4.21.17 pm.png>)
