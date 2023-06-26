@@ -71,7 +71,9 @@ Please click Url link to test the application
 https://msadio8.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/
 
 the gray ⚪️ color represents for past
+
 the red 🔴 color represents the present or current time
+
 the green 🟢 color represents the future
 
 to guide you how the application works
